@@ -3,7 +3,7 @@
   "version": "0.0.0-dev",
   "description": "",
   "main": "app.js",
-  "scripts": {
+  "scripts": { 
     "start": "electron ."
   },
   "repository": {

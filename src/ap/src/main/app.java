@@ -1,8 +1,3 @@
-/**
- * gói ap: định danh
- * gói src: lưu code chương trình
- * gói main: nơi chương trình bắt đầu
- */
 package ap.src.main;
 /**
  * class app: nơi chương trình bắt đầu

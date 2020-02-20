@@ -1,0 +1,22 @@
+{
+  "name": "project-pst",
+  "version": "0.0.0-dev",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardiJan/project-pst.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HardiJan/project-pst/issues"
+  },
+  "homepage": "https://github.com/HardiJan/project-pst#readme",
+  "devDependencies": {
+    "electron": "^8.0.1"
+  }
+}
